@@ -1,5 +1,5 @@
 {
-  "name": "rovergenomeproject",
+  "name": "rover-genome-project",
   "version": "1.0.0",
   "description": "Distributed genetic algorithm to find an optimal rover design for Mars",
   "main": "app.js",
