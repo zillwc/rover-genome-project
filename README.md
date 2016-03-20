@@ -14,4 +14,6 @@ Project is a modification of boxcar2d, which was originally written by David Bau
 
 - **TTL**: cars' fitness scores will have varying deductions based on how long they take to reach distance
 
-- **Increased camera spans**: during generation simulation, users can view their own active design simulation, as well as the design simulation of other users' designs.
+- **Increased Camera Spans**: during generation simulation, users can view their own active design simulation, as well as the design simulation of other users' designs.
+
+- **Location Storage**: designs are stored in local storage so users can come back to the site and carry on the mutation
